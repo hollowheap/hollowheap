@@ -30,9 +30,9 @@ I'm Yucky Hito from Batam, Indonesia currently located in Singapore
 
 ### Featured Projects
 
-[![Restoview](https://github-readme-stats.vercel.app/api/pin/?username=yuckyh&repo=restoview)](https://github.com/yuckyh/restoview)
+[![Restoview](https://github-readme-stats.vercel.app/api/pin/?username=hollowheap&repo=restoview)](https://github.com/hollowheap/restoview)
 
-[![Clean Tool](https://github-readme-stats.vercel.app/api/pin/?username=yuckyh&repo=clean-tool-app)](https://github.com/yuckyh/clean-tool-app)
+[![Clean Tool](https://github-readme-stats.vercel.app/api/pin/?username=hollowheap&repo=clean-tool-app)](https://github.com/hollowheap/clean-tool-app)
 
 ---
 
@@ -124,12 +124,12 @@ I'm Yucky Hito from Batam, Indonesia currently located in Singapore
 
 ### 🔥   My Stats
 
-![Stats Graph](https://github-readme-stats.vercel.app/api?username=yuckyh&rank_icon=github&count_private=true&theme=radical)
+![Stats Graph](https://github-readme-stats.vercel.app/api?username=hollowheap&rank_icon=github&count_private=true&theme=radical)
 
-![Languages Graph](https://github-readme-stats.vercel.app/api/top-langs?username=yuckyh&layout=donut&card_width=320&theme=radical)
+![Languages Graph](https://github-readme-stats.vercel.app/api/top-langs?username=hollowheap&layout=donut&card_width=320&theme=radical)
 
-![Streak Graph](https://streak-stats.demolab.com?user=yuckyh&locale=en&mode=weekly&theme=radical&hide_border=false&border_radius=5)
+![Streak Graph](https://streak-stats.demolab.com?user=hollowheap&locale=en&mode=weekly&theme=radical&hide_border=false&border_radius=5)
 
-![Snake Animation](https://raw.githubusercontent.com/yuckyh/yuckyh/output/snake.svg)
+![Snake Animation](https://raw.githubusercontent.com/hollowheap/hollowheap/output/snake.svg)
 
 ---
